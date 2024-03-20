@@ -1,0 +1,35 @@
+.pos{
+    padding-top: 8vh;
+}
+.pos2{
+    position: absolute;
+    top: 53%;
+    left: 38%;
+    color: white;
+    font-size: 6vw;
+    font-weight: bold;
+    border-radius: 5%;
+    filter: drop-shadow(10px 10px 7px rgb(7, 7, 7));
+}
+.img-team{
+    width: 20vw;
+    position: relative;
+    left: 40%;
+}
+.waw{
+    font-size: 4vw;
+    font-weight: bold;
+    color: #0bb403;
+    
+}
+.miV-t{
+    color: #0bb403;
+    font-weight: bold;
+
+}
+@media (max-width:767px){
+    .pos2{
+        position: absolute;
+        top: 25%;
+    }
+}
